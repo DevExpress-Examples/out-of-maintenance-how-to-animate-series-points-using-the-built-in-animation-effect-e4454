@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="PointsAnimation.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">1E-6D-54-AE-A1-1E-EF-14-E6-A7-67-43-BD-C7-91-D5-9B-99-14-C9</my:String>
+  </Application.Resources>
+</Application>
